@@ -1,6 +1,5 @@
 # DADQ_gas_price_project
 
-by Johannes Misensky, Liv Krause and Martin Leutgöb
 
 the script "get_data_agsi" downloads data for agsi/alsi as json. then transforms json into workable dataframes
 
